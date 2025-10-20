@@ -91,7 +91,7 @@ This includes setting a custom user ID and defining a baseline security policy.
 <br><br>
 
 <p align="center">
-  <img width="293" height="346" alt="adding capabilities" src="https://github.com/user-attachments/assets/3775f41f-3120-486a-4c9b3b633211" />
+  <img width="293" height="346" alt="https://github.com/user-attachments/assets/3775f41f-3120-486a-a48e-4c9b3b633211" />
 </p>
 
 <br><br>
