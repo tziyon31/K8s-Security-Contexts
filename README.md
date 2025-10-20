@@ -83,16 +83,15 @@ This includes setting a custom user ID and defining a baseline security policy.
 
 ---
 
-## 🔒 Step 6 – Adding Linux Capabilities
+## 🔒 Step 6 – Adding Linux Capabilities and Changing User
 
 **We now extend container privileges by adding Linux capabilities such as `NET_ADMIN` or `SYS_TIME`.**  
 ⚠️ Always add them **under the container’s `securityContext`**, not the Pod’s, since capabilities are container-specific.
 
 <br><br>
 
-<p align="center">
-  <img width="293" height="346" alt="https://github.com/user-attachments/assets/3775f41f-3120-486a-a48e-4c9b3b633211" />
-</p>
+<img width="277" height="377" alt="image" src="https://github.com/user-attachments/assets/f22a9df1-0e9e-4620-b06b-43c1ab45a338" />
+
 
 <br><br>
 
